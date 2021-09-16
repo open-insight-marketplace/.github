@@ -1,6 +1,6 @@
 ---
 name: Task template
-about: Tasks should roll up to a user story or epic. A Task should be fully estimated and prioritized per the Estimation & Prioritization framework. A user story might require a team and a week or two of work, but a Task should be de-risked and/or decomposed to 5 Story Points or less (per Rialtic development standards)
+about: Tasks should roll up to a user story or epic. A Task should be fully estimated and prioritized per the Estimation & Prioritization framework, and should be de-risked and/or decomposed to 5 Story Points or less (per Rialtic development standards)
 title: ''
 labels: ''
 assignees: ''
