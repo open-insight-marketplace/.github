@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: User stories are units of functionality that deliver customer value. They describe a desired feature or functionality by stating the way a user will use the feature.
-title: ''
+title: 'User Story'
 labels: ''
 assignees: ''
 
@@ -12,6 +12,9 @@ assignees: ''
 - **(Optional) When** *trigger / call to action*
 - **I would like to** *do an action or have a feature*
 - **So I can** *result of that action that is valuable to me*
+
+### Description
+Describe the user story in 1-2 sentences
 
 ### Rationale
 Describe why the user story is valuable
