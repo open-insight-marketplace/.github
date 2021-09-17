@@ -1,7 +1,7 @@
 ---
 name: Task template
-about: A Task should be fully estimated and prioritized per the Estimation & Prioritization framework, and should be de-risked and/or decomposed to 5 Story Points or less (per Rialtic development standards)
-title: ''
+about: Tasks are units of work that roll up to a user story or epic
+title: '<verb/action> <activity/thing> so that <outcome>'
 labels: ''
 assignees: ''
 ---
